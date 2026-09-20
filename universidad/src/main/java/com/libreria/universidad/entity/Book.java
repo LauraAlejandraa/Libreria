@@ -1,4 +1,4 @@
-package com.libreria.universidad.entity
+package com.libreria.universidad.entity;
 
 import jakarta.persistence.*;
 import java.util.ArrayList;
