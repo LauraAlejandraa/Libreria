@@ -48,6 +48,7 @@ public class BookController {
         return ResponseEntity.noContent().build();
     }
 
+
     // Historia de usuario 1: GET /api/books/search/simple?q=texto
     @GetMapping("/search/simple")
     public ResponseEntity<List<BookResponseDTO>> searchSimple(@RequestParam("q") String term) {

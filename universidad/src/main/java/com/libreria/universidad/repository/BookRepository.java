@@ -26,4 +26,6 @@ public interface BookRepository extends JpaRepository<Book, Long> {
     List<Book> searchCombined(@Param("author") String author,
                               @Param("title") String title,
                               @Param("isbn") String isbn);
+
+                      
 }

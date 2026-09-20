@@ -70,6 +70,7 @@ public class BookService {
         bookRepository.delete(book);
     }
 
+    
     // Historia de usuario 1
     public List<BookResponseDTO> searchSimple(String term) {
         return bookRepository.searchSimple(term).stream()
