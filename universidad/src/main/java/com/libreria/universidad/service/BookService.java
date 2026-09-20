@@ -4,7 +4,7 @@ import com.libreria.universidad.dto.BookRequestDTO;
 import com.libreria.universidad.dto.BookResponseDTO;
 import com.libreria.universidad.entity.Book;
 import com.libreria.universidad.exception.DuplicateResourceException;
-import com.libreria.universidad..exception.ResourceNotFoundException;
+import com.libreria.universidad.exception.ResourceNotFoundException;
 import com.libreria.universidad.repository.BookRepository;
 import org.springframework.stereotype.Service;
 
