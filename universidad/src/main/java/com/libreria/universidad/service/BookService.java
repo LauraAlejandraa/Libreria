@@ -1,11 +1,11 @@
 package com.libreria.universidad.service;
 
-import com.uniandes.southcoast.dto.BookRequestDTO;
-import com.uniandes.southcoast.dto.BookResponseDTO;
-import com.uniandes.southcoast.entity.Book;
-import com.uniandes.southcoast.exception.DuplicateResourceException;
-import com.uniandes.southcoast.exception.ResourceNotFoundException;
-import com.uniandes.southcoast.repository.BookRepository;
+import com.libreria.universidad.dto.BookRequestDTO;
+import com.libreria.universidad.dto.BookResponseDTO;
+import com.libreria.universidad.entity.Book;
+import com.libreria.universidad.exception.DuplicateResourceException;
+import com.libreria.universidad..exception.ResourceNotFoundException;
+import com.libreria.universidad.repository.BookRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
