@@ -1,4 +1,4 @@
-package com.libreria.universidad.entity;
+package com.libreria.universidad.repository;
 
 import com.uniandes.southcoast.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
