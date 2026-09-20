@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2079bb6-fcd3-4a6a-a4d8-5bbad4127274" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/LibreriaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/config/DataSeeder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/controller/RatingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/controller/ReviewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/BookRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/BookResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/RatingRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/RatingResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/ReviewRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/ReviewResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/ApiError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/DuplicateResourceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/repository/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/repository/RatingRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/repository/ReviewRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/service/RatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/service/ReviewService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/controller/BookControllerIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/service/BookServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/service/RatingServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/service/ReviewServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universidad/src/main/java/com/LibreriaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +33,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/book-crud&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
