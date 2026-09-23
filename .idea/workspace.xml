@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2079bb6-fcd3-4a6a-a4d8-5bbad4127274" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/LibreriaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/config/DataSeeder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/controller/RatingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/controller/ReviewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/BookRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/BookResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/RatingRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/RatingResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/ReviewRequestDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/dto/ReviewResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/entity/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/ApiError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/DuplicateResourceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/repository/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/repository/RatingRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/repository/ReviewRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/service/RatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/main/java/com/libreria/universidad/service/ReviewService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/controller/BookControllerIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/service/BookServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/service/RatingServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/universidad/src/test/java/com/libreria/universidad/service/ReviewServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b2079bb6-fcd3-4a6a-a4d8-5bbad4127274" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +12,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
@@ -51,22 +32,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.UniversidadApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="UniversidadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="universidad" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libreria.universidad.UniversidadApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.libreria.universidad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UniversidadApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,5 +92,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

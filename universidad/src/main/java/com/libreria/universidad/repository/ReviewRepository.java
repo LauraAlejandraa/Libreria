@@ -1,0 +1,8 @@
+package com.libreria.universidad.repository;
+import com.libreria.universidad.entity.Review;
+import org.springframework.data.jpa.repository.JpaRepository;
+import java.util.List;
+
+public interface ReviewRepository extends JpaRepository<Review, Long> {
+    List<Review> findByBookId(Long bookId);
+}
